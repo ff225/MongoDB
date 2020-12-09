@@ -11,8 +11,8 @@ Per questa esercitazione sono stati presi in considerazione i seguenti set di da
 
 ## Struttura cartelle
 ### COVID19CSV
-Sono memorizzati i tre set di dati in formati csv.
+Sono memorizzati i tre set di dati in formato csv.
 
 ### Schema
-CreateCollection ha il compito di creare le collezioni a partire dal set di dati presenti in COVID19CSV   
+CreateCollection ha il compito di creare le collezioni a partire dal set di dati presenti in COVID19CSV.       
 Schema contiene la struttura che verrà utilizzata per la creazione dei documenti.
