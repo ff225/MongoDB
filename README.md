@@ -1,11 +1,11 @@
 
 # Prima Esercitazione BigData
 ## MongoDB
-In questa esercitazione è stato modellato un set di dati preso riguardante l'evoluzione della pandemia in Corea del Sud.    
+In questa esercitazione è stato modellato un set di dati riguardante l'evoluzione della pandemia in Corea del Sud.    
 Il dataset è fornito dal sito: https://www.kaggle.com/kimjihoo/coronavirusdataset   
 Per questa esercitazione sono stati presi in considerazione i seguenti set di dati:
 -	Case: informazione sui casi di infezione da COVID-19;
--	Region: luoghi e informazioni riguardanti le regioni della Corea del sud.
+-	Region: luoghi e informazioni riguardanti le regioni della Corea del sud;
 -	Patient_info: Dati epidemiologici dei pazienti infetti da COVID-19 in Corea del Sud.
 
 
